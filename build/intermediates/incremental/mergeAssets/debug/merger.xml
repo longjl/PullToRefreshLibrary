@@ -1,11 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="2" >
-
-    <dataSet config="main" >
-        <source path="/Users/longjianlin/Documents/leap-android-work/leap-train-platform/deps/PullToRefreshLibrary/assets" />
-    </dataSet>
-    <dataSet config="debug" >
-        <source path="/Users/longjianlin/Documents/leap-android-work/leap-train-platform/deps/PullToRefreshLibrary/src/debug/assets" />
-    </dataSet>
-
-</merger>
+<merger version="3"><dataSet config="main"><source path="/Users/longjianlin/Documents/longjl-dev/PhotoShare/deps/PullToRefreshLibrary/assets"/></dataSet><dataSet config="debug"><source path="/Users/longjianlin/Documents/longjl-dev/PhotoShare/deps/PullToRefreshLibrary/src/debug/assets"/></dataSet></merger>
